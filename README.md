@@ -1,2 +1,2 @@
-# Maze-Games
-A Spaceship Maze Game can be a fun twist on a traditional maze game — imagine piloting a spaceship through an asteroid field or space station corridors. We can combine pathfinding algorithms for AI or obstacles and a Tkinter GUI for gameplay.
+#MAZE GAMES
+The Spaceship Maze Game uses Dijkstra’s Algorithm to find the shortest path through a maze. The spaceship navigates from the start to the destination by calculating the minimum-cost route while avoiding obstacles. A Tkinter-based GUI visually shows the maze, spaceship movement, and the optimal path, demonstrating real-world applications of shortest path algorithms in navigation and AI.
